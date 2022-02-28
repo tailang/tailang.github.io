@@ -4,6 +4,9 @@ date: 2022-02-27 19:20:18
 ---
 Hi，我是Tailang，一名软件开发者，同时也是一名骑行爱好者。
 
+### Contact
+caopingcpu#gmail.com
+
 ### Projects
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC with Ruby(Mruby)  
 . [thirtysunshine](https://github.com/tailang/thirtysunshine) :基于Ruby on Rails开发的社区论坛  
