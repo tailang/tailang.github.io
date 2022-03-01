@@ -27,3 +27,5 @@ caopingcpu#gmail.com
 2012.01 湖南湘潭-浙江嘉兴  
 ...
 
+### Experience
+曾服务于滴滴出行、贝贝集团、二维火等企业，易酷游戏co-founder，现在是一名独立开发者
