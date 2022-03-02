@@ -11,7 +11,8 @@ caopingcpu#gmail.com
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC with Ruby(Mruby)  
 . [thirtysunshine](https://github.com/tailang/thirtysunshine) :基于Ruby on Rails开发的社区论坛  
 . [RiderMap](https://github.com/tailang/RiderMap): 一个采集骑行路线数据，并能导出GPX或GeoJson文件的小工具  
-. [Hummer](https://hummer.didi.cn/#/): 一套高性能高可用的跨端开发框架  
+. [Hummer](https://hummer.didi.cn/#/): 来自滴滴出行的一套高性能高可用的跨端开发框架  
+. EcoolHub: 易酷游戏，一个PS游戏交易平台
 ...
 
 ### Cycling
