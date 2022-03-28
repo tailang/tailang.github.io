@@ -5,7 +5,13 @@ date: 2022-02-27 19:20:18
 Hi，我是Tailang，一名软件开发者，同时也是一名骑行爱好者。
 
 ### Contact
+
+#### E-mail
 caopingcpu#gmail.com
+
+#### Wechat
+<!-- ![wechat](/images/wechat.png){width: 100px} -->
+<img src="/images/wechat.png" alt="drawing" width="300"/>
 
 ### Projects
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC with Ruby(Mruby)  
