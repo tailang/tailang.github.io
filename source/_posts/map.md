@@ -16,8 +16,11 @@ RiderMap是一个采集骑行路线数据，并能导出GPX或GeoJson文件的�
 
 ### 如何使用
 
+#### 直接使用
+点击链接：[RiderMap](https://gilded-crisp-12e99e.netlify.app/)
 
-1、注意项
+#### 自己编译
+0、注意项
 
 （1）项目中使用的地图数据来自MapBox，这是一个商业地图服务商，对应free用户有很多请求的限制，比如Map Loads for Web每月支持50000次，Tilequery Api每月支持100000次、每分钟最多请求600次等限制。所以推荐注册一个自己的MapBox账号并生成对应的token，替换项目中的token
 
@@ -31,12 +34,19 @@ RiderMap是一个采集骑行路线数据，并能导出GPX或GeoJson文件的�
 
 
 
-2、clone项目，找到rideRoute.js文件中的mapbox_token替换成自己的token
+1、clone项目，找到rideRoute.js文件中的mapbox_token替换成自己的token
 ```
 const mapbox_token = '替换成你的token'
 ```
 
-3、找到rideRoute.html文件,点击使用浏览器打开就可以开始采集数据了。
+~~3、找到rideRoute.html文件,点击使用浏览器打开就可以开始采集数据了。~~
+
+2、因为项目改用webpack管理，所以需要编译
+```
+npm run build
+```
+
+3、在dist文件夹下找到index.html,点击使用浏览器打开就可以开始采集数据了
 
 
 
