@@ -9,9 +9,9 @@ Hi，我是Tailang，一名软件开发者，同时也是一名骑行爱好者�
 #### E-mail
 caopingcpu#gmail.com (replace "#" with "@")
 
-#### Wechat
+<!-- #### Wechat -->
 <!-- ![wechat](/images/wechat.png){width: 100px} -->
-<img src="/images/wechat.png" alt="drawing" width="300"/>
+<!-- <img src="/images/wechat.png" alt="drawing" width="300"/> -->
 
 ### Projects
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC with Ruby(Mruby)  
