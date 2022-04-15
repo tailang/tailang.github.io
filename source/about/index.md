@@ -15,11 +15,11 @@ caopingcpu#gmail.com (replace "#" with "@")
 
 ### Projects
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC with Ruby(Mruby)  
-. [thirtysunshine](https://github.com/tailang/thirtysunshine) :基于Ruby on Rails开发的社区论坛  
+. [thirtysunshine](https://github.com/tailang/thirtysunshine) :基于Ruby on Rails开发的社区论坛，已下线  
 . [RiderMap](https://github.com/tailang/RiderMap): 一个采集骑行路线数据，并能导出GPX或GeoJson文件的小工具  
 . [Hummer](https://hummer.didi.cn/#/): 来自滴滴出行的一套高性能高可用的跨端开发框架  
-. EcoolHub: 易酷游戏，一个PS游戏交易平台  
-. 煮时(Cooking Timer): 支持多个定时的美食制作定时器，使用SwiftUI&Combine开发  
+. EcoolHub: 易酷游戏，一个PS游戏交易平台,已下线  
+. [煮时(Cooking Timer)](https://apps.apple.com/us/app/cooti/id1617024986): 支持多个定时的美食制作定时器，使用SwiftUI&Combine开发  
 ...
 
 ### Cycling
