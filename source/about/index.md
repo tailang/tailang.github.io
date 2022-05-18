@@ -2,7 +2,7 @@
 title: about
 date: 2022-02-27 19:20:18
 ---
-Hi，我是Tailang，一名软件开发者，同时也是一名骑行爱好者。
+Hi, I'm Tailang, a software developer and cycling enthusiast.
 
 ### Contact
 
@@ -15,26 +15,26 @@ caopingcpu#gmail.com (replace "#" with "@")
 
 ### Projects
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC and Ruby(Mruby)  
-. [thirtysunshine](https://github.com/tailang/thirtysunshine) :基于Ruby on Rails开发的社区论坛，已下线  
-. [RiderMap](https://github.com/tailang/RiderMap): 一个采集骑行路线数据，并能导出GPX或GeoJson文件的小工具  
-. [Hummer](https://hummer.didi.cn/#/): 来自滴滴出行的一套高性能高可用的跨端开发框架  
-. EcoolHub: 易酷游戏，一个PS游戏交易平台,已下线  
-. [煮时(Cooking Timer)](https://apps.apple.com/us/app/cooti/id1617024986): 支持多个定时的美食制作定时器，使用SwiftUI&Combine开发  
+. [thirtysunshine](https://github.com/tailang/thirtysunshine) :a community forum developed using Ruby on Rails, but has been taken offline
+. [RiderMap](https://github.com/tailang/RiderMap): a gadget that collects cycling route data and exports GPX or GeoJson files
+. EcoolHub: a playstation game trading platform, but has been offline
+. [CooTi(煮时)](https://apps.apple.com/us/app/cooti/id1617024986): Gourmet cooking timer developed using SwiftUI&Combine
+. [Hummer](https://github.com/didi/Hummer): a mobile high performance and high availability of dynamic cross-end development framework from DiDi.
 ...
 
 ### Cycling
-2021.12 未科-径山镇  
-2021.08 未科-苕溪-东明山  
-2020.04 海盐澉浦-嘉绍跨海大桥 
-2016.10 临安  
-2016.04 环杭州（城西）  
-2015.10 富阳龙门镇  
-2015.08 杭州径山寺  
-2014.04 环太湖  
-2013.10 湖南湘潭-湖南岳阳  
-2012.01 湖南湘潭-浙江嘉兴  
-2011-2013 环长株潭
+2021.12 未科-径山镇  >50km
+2021.08 未科-苕溪-东明山 >70km 
+2020.04 海盐澉浦-嘉绍跨海大桥 ~50km 
+2016.10 杭州-临安  >100km
+2016.04 环杭州（城西）  ~50km
+2015.10 杭州-富阳龙门镇  >120km
+2015.08 杭州-径山寺  ~70km
+2014.04 环太湖  ~300km
+2013.10 湖南湘潭-湖南岳阳  >200km
+2012.01 湖南湘潭-浙江嘉兴  >1200km
+2011-2013 环长株潭  > 100km * n
 ...
 
 ### Experience
-曾服务于滴滴出行、贝贝集团、二维火等企业，易酷游戏co-founder，现在是一名独立开发者
+Served in Didi Group, Beibei Group, 2D Fire and other enterprises,EcoolHub co-founder,now I'm an indie developer.
