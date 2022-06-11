@@ -1,5 +1,5 @@
 ---
-title: Cooking Timer privacy policy
+title: privacy policy
 date: 2022-03-31 13:39:26
 ---
 # Privacy Policy

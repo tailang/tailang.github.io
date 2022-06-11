@@ -1,5 +1,5 @@
 ---
-title: 煮时（Cooking Timer）隐私政策
+title: 隐私政策
 date: 2022-03-27 12:58:34
 ---
 # 隐私政策
