@@ -14,11 +14,12 @@ caopingcpu#gmail.com (replace "#" with "@")
 <!-- <img src="/images/wechat.png" alt="drawing" width="300"/> -->
 
 ### Projects
+. [Bye Purine(再见嘌呤)](https://apps.apple.com/us/app/ByePurine/id1629272369): a food purine query tool developed using RXSwift
+. [CooTi(煮时)](https://apps.apple.com/us/app/cooti/id1617024986): Gourmet cooking timer developed using SwiftUI&Combine
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC and Ruby(Mruby)  
 . [thirtysunshine](https://github.com/tailang/thirtysunshine) :a community forum developed using Ruby on Rails, but has been taken offline
 . [RiderMap](https://github.com/tailang/RiderMap): a gadget that collects cycling route data and exports GPX or GeoJson files
 . EcoolHub: a playstation game trading platform, but has been offline
-. [CooTi(煮时)](https://apps.apple.com/us/app/cooti/id1617024986): Gourmet cooking timer developed using SwiftUI&Combine
 . [Hummer](https://github.com/didi/Hummer): a mobile high performance and high availability of dynamic cross-end development framework from DiDi.
 ...
 
@@ -38,4 +39,4 @@ caopingcpu#gmail.com (replace "#" with "@")
 ...
 
 ### Experience
-Served in Didi Group, Beibei Group, 2D Fire and other enterprises,EcoolHub co-founder,now I'm an indie developer.
+Served in Didi Group, Beibei Group, 2D Fire and other enterprises,EcoolHub co-founder.
