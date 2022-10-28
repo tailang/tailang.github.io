@@ -7,13 +7,14 @@ Hi, I'm Tailang, a software developer and cycling enthusiast.
 ### Contact
 
 #### E-mail
-caopingcpu#gmail.com (replace "#" with "@")
+mail@tailang.top
 
 <!-- #### Wechat -->
 <!-- ![wechat](/images/wechat.png){width: 100px} -->
 <!-- <img src="/images/wechat.png" alt="drawing" width="300"/> -->
 
 ### Projects
+. [Hex(加点料)](https://apps.apple.com/cn/app/id6443815603): a Food additive analysis tool developed using SwiftUI&Combine
 . [Bye Purine(再见嘌呤)](https://apps.apple.com/us/app/ByePurine/id1629272369): a food purine query tool developed using RXSwift
 . [CooTi(煮时)](https://apps.apple.com/us/app/cooti/id1617024986): Gourmet cooking timer developed using SwiftUI&Combine
 . [iMRuby](https://github.com/FormulaFactory/iMRuby) :a bridge between ObjC and Ruby(Mruby)  
@@ -24,6 +25,7 @@ caopingcpu#gmail.com (replace "#" with "@")
 ...
 
 ### Cycling
+2022.10 未科-龙坞茶园 ～50km
 2022.05 未科-闲林水库 >40km
 2021.12 未科-径山镇  >50km
 2021.08 未科-苕溪-东明山 >70km 
