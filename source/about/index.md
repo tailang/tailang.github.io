@@ -21,7 +21,6 @@ mail@tailang.top
 . [thirtysunshine](https://github.com/tailang/thirtysunshine) :a community forum developed using Ruby on Rails, but has been taken offline
 . [RiderMap](https://github.com/tailang/RiderMap): a gadget that collects cycling route data and exports GPX or GeoJson files
 . EcoolHub: a playstation game trading platform, but has been offline
-. [Hummer](https://github.com/didi/Hummer): a mobile high performance and high availability of dynamic cross-end development framework from DiDi.
 ...
 
 ### Cycling
