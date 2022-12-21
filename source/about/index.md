@@ -2,7 +2,7 @@
 title: about
 date: 2022-02-27 19:20:18
 ---
-Hi, I'm Tailang, a software developer and cycling enthusiast.
+Hi, I'm Tailang, an indie developer.
 
 ### Contact
 
